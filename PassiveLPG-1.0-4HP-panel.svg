@@ -35,7 +35,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4819483"
-     inkscape:cx="454.18571"
+     inkscape:cx="394.95805"
      inkscape:cy="316.19501"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
@@ -47,8 +47,8 @@
      inkscape:snap-midpoints="false"
      inkscape:window-width="1941"
      inkscape:window-height="1300"
-     inkscape:window-x="244"
-     inkscape:window-y="66"
+     inkscape:window-x="316"
+     inkscape:window-y="62"
      inkscape:window-maximized="0"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="false"
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -958,36 +958,36 @@
          sodipodi:role="line">cv/level</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 405.02595,748.63813 4.5,-4.5 45,0 4.5,-4.5 0,0 0,0"
+       d="m 281.27595,773.38813 4.5,-4.5 45,0 4.5,-4.5 0,0 0,0"
        id="path5153"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 404.95273,746.3149 4.5,-4.5 45,0 4.5,-4.5"
+       d="m 292.5,759.86218 4.5,-4.5 45,0 4.5,-4.5"
        id="path5155"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="125%"
        id="text5157"
-       y="543.87714"
-       x="412.40088"
+       y="543.07129"
+       x="421.26486"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'My Underwood';-inkscape-font-specification:'My Underwood';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="543.87714"
-         x="412.40088"
+         y="543.07129"
+         x="421.26486"
          id="tspan5159"
-         sodipodi:role="line">LPG</tspan></text>
+         sodipodi:role="line">2€</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'My Underwood';-inkscape-font-specification:'My Underwood';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="410.64194"
-       y="553.13574"
-       id="text5161"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'My Underwood';-inkscape-font-specification:'My Underwood';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="417.56189"
+       y="555.58612"
+       id="text5633"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5163"
-         x="410.64194"
-         y="553.13574">pasv2x</tspan></text>
+         id="tspan5635"
+         x="417.56189"
+         y="555.58612">LPG</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

@@ -34,7 +34,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4815942"
+     inkscape:zoom="2.4833272"
      inkscape:cx="454.18571"
      inkscape:cy="316.19501"
      inkscape:document-units="px"
@@ -1578,7 +1578,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Knobs outlines"
-     style="display:inline">
+     style="display:none">
     <circle
        id="path3884"
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
